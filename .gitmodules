@@ -1,0 +1,69 @@
+[submodule "specification-studies"]
+	path = specification-studies
+	url = git@github.com:wallymathieu/specification-studies.git
+[submodule "filedb-studies-java"]
+	path = filedb-studies-java
+	url = git@github.com:wallymathieu/filedb-studies-java.git
+[submodule "hibernate-studies"]
+	path = hibernate-studies
+	url = git@github.com:wallymathieu/hibernate-studies.git
+[submodule "mongodb-studies"]
+	path = mongodb-studies
+	url = git@github.com:wallymathieu/mongodb-studies.git
+[submodule "polymorphic-swagger-studies"]
+	path = polymorphic-swagger-studies
+	url = git@github.com:wallymathieu/polymorphic-swagger-studies.git
+[submodule "filedb-studies"]
+	path = filedb-studies
+	url = git@github.com:wallymathieu/filedb-studies.git
+[submodule "versioning-studies"]
+	path = versioning-studies
+	url = git@github.com:wallymathieu/versioning-studies.git
+[submodule "marten-studies"]
+	path = marten-studies
+	url = git@github.com:wallymathieu/marten-studies.git
+[submodule "entity-framework-studies"]
+	path = entity-framework-studies
+	url = git@github.com:wallymathieu/entity-framework-studies.git
+[submodule "nhibernate-studies"]
+	path = nhibernate-studies
+	url = git@github.com:wallymathieu/nhibernate-studies.git
+[submodule "ImmutableObjectGraph-studies"]
+	path = ImmutableObjectGraph-studies
+	url = git@github.com:wallymathieu/ImmutableObjectGraph-studies.git
+[submodule "redis-studies"]
+	path = redis-studies
+	url = git@github.com:wallymathieu/redis-studies.git
+[submodule "validation-studies"]
+	path = validation-studies
+	url = git@github.com:wallymathieu/validation-studies.git
+[submodule "dapper-studies"]
+	path = dapper-studies
+	url = git@github.com:wallymathieu/dapper-studies.git
+[submodule "masstransit-studies"]
+	path = masstransit-studies
+	url = git@github.com:wallymathieu/masstransit-studies.git
+[submodule "nevent-store-studies"]
+	path = nevent-store-studies
+	url = git@github.com:wallymathieu/nevent-store-studies.git
+[submodule "origodb-studies"]
+	path = origodb-studies
+	url = git@github.com:wallymathieu/origodb-studies.git
+[submodule "kafka-studies"]
+	path = kafka-studies
+	url = git@github.com:wallymathieu/kafka-studies.git
+[submodule "raven-studies"]
+	path = raven-studies
+	url = git@github.com:wallymathieu/raven-studies.git
+[submodule "elastic-studies"]
+	path = elastic-studies
+	url = git@github.com:wallymathieu/elastic-studies.git
+[submodule "s3-studies"]
+	path = s3-studies
+	url = git@github.com:wallymathieu/s3-studies.git
+[submodule "csvdb-studies"]
+	path = csvdb-studies
+	url = git@github.com:wallymathieu/csvdb-studies.git
+[submodule "cassandra-studies"]
+	path = cassandra-studies
+	url = git@github.com:wallymathieu/cassandra-studies.git
