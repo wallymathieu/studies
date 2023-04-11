@@ -67,3 +67,6 @@
 [submodule "cassandra-studies"]
 	path = db/cassandra-studies
 	url = git@github.com:wallymathieu/cassandra-studies.git
+[submodule "immutable-csharp-studies"]
+	path = immutable-csharp-studies
+	url = git@github.com:wallymathieu/immutable-csharp-studies.git
