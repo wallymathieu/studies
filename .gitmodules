@@ -29,7 +29,7 @@
 	path = db/nhibernate-studies
 	url = git@github.com:wallymathieu/nhibernate-studies.git
 [submodule "ImmutableObjectGraph-studies"]
-	path = ImmutableObjectGraph-studies
+	path = immutable/ImmutableObjectGraph-studies
 	url = git@github.com:wallymathieu/ImmutableObjectGraph-studies.git
 [submodule "redis-studies"]
 	path = db/redis-studies
@@ -68,5 +68,5 @@
 	path = db/cassandra-studies
 	url = git@github.com:wallymathieu/cassandra-studies.git
 [submodule "immutable-csharp-studies"]
-	path = immutable-csharp-studies
+	path = immutable/immutable-csharp-studies
 	url = git@github.com:wallymathieu/immutable-csharp-studies.git
