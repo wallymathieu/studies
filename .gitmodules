@@ -56,7 +56,7 @@
 	path = db/raven-studies
 	url = git@github.com:wallymathieu/raven-studies.git
 [submodule "elastic-studies"]
-	path = elastic-studies
+	path = db/elastic-studies
 	url = git@github.com:wallymathieu/elastic-studies.git
 [submodule "s3-studies"]
 	path = files/s3-studies
