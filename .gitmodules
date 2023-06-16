@@ -1,5 +1,5 @@
 [submodule "specification-studies"]
-	path = specification-studies
+	path = specification
 	url = git@github.com:wallymathieu/specification-studies.git
 [submodule "filedb-studies-java"]
 	path = db/filedb-studies-java
@@ -11,13 +11,13 @@
 	path = db/mongodb-studies
 	url = git@github.com:wallymathieu/mongodb-studies.git
 [submodule "polymorphic-swagger-studies"]
-	path = polymorphic-swagger-studies
+	path = swagger/polymorphic
 	url = git@github.com:wallymathieu/polymorphic-swagger-studies.git
 [submodule "filedb-studies"]
 	path = db/filedb-studies
 	url = git@github.com:wallymathieu/filedb-studies.git
 [submodule "versioning-studies"]
-	path = versioning-studies
+	path = versioning
 	url = git@github.com:wallymathieu/versioning-studies.git
 [submodule "marten-studies"]
 	path = db/marten-studies
@@ -35,7 +35,7 @@
 	path = db/redis-studies
 	url = git@github.com:wallymathieu/redis-studies.git
 [submodule "validation-studies"]
-	path = validation-studies
+	path = validation
 	url = git@github.com:wallymathieu/validation-studies.git
 [submodule "dapper-studies"]
 	path = db/dapper-studies
@@ -44,7 +44,7 @@
 	path = events/masstransit-studies
 	url = git@github.com:wallymathieu/masstransit-studies.git
 [submodule "nevent-store-studies"]
-	path = nevent-store-studies
+	path = events/nevent-store-studies
 	url = git@github.com:wallymathieu/nevent-store-studies.git
 [submodule "origodb-studies"]
 	path = db/origodb-studies
